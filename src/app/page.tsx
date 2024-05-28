@@ -7,7 +7,7 @@ import FaqSection from './FaqSection';
 
 const Page = () => {
         const texts = ['Making', 'Building', 'Designing', 'Aligning'];
-  const colors = ['text-yellow-500', 'text-red-500', 'text-blue-500', 'text-green-500'];
+  const colors = ['text-yellow-600', 'text-red-500', 'text-blue-500', 'text-green-500'];
   const [index, setIndex] = useState(0);
   
 

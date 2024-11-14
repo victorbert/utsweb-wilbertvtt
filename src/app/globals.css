@@ -42,11 +42,6 @@
   box-sizing: border-box
 }
 
-body {
-  height: 500vh;
-  transition:  1s ease;
-}
-
 .image-scroll-container {
   display: flex;
   overflow: hidden;
